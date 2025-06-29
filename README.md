@@ -1,4 +1,11 @@
 # neopixel-fungi
+Este proyecto trata de expresar las bioseñales de organismos como son los hongos transformando sus variaciones electricas en una experiencia visual a traves de leds neopixel los cambios de voltaje captados se traducen en un color distinto permitiendo observar la actividad bioelectrica de estos seres.       
+
+bibliotecas externas:
+
+Adafruit_Neopixel.h
+
+Adafruit_ADS1X15.h
 
 ```ccp
 #include <Adafruit_NeoPixel.h>
