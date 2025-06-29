@@ -3,6 +3,7 @@ Este proyecto trata de expresar las bioseñales de organismos como son los hongo
 
 bibliotecas externas:
 
+
 Adafruit_Neopixel.h
 
 Adafruit_ADS1X15.h
