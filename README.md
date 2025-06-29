@@ -1,6 +1,6 @@
 # neopixel-fungi
 
-""#include <Adafruit_NeoPixel.h>
+```#include <Adafruit_NeoPixel.h>
 #include <Wire.h>
 #include <Adafruit_ADS1X15.h>
 
@@ -61,4 +61,4 @@ void setColor(int r, int g, int b) {
   }
   leds.show();
 }
-""
+```
